@@ -1,0 +1,5 @@
+runtime: nodejs18
+
+env_variables:
+  BUDGET_DB_URI: "mongodb+srv://atlas_db_user:WuSTfGH6CvAt4Ou9@cluster0.lghqykv.mongodb.net/?retryWrites=true&w=majority"
+  BUDGET_COLLECTION: "budget_tool_db"
